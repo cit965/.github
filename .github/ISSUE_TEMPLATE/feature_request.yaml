@@ -1,7 +1,7 @@
 name: 🚀 Feature request
 description: Suggest an idea for cit965
 title: "[Feature]: "
-labels: [feature]
+labels: [enhancement]
 assignees:
   - member1  # 这里您可以替换为您项目的成员名称
 body:
